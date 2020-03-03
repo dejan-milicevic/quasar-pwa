@@ -5,7 +5,7 @@
   "productName": "Quasar App",
   "cordovaId": "org.cordova.quasar.app",
   "capacitorId": "",
-  "author": "Dejan Milicevic <dejan.milicevic.1986@gmail.co>",
+  "author": "Dejan Milicevic <dejan.milicevic.1986@gmail.com>",
   "private": true,
   "scripts": {
     "test": "echo \"No test specified\" && exit 0"
